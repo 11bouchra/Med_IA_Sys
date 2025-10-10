@@ -1,0 +1,39 @@
+data/
+*.csv
+*.jpg
+*.jpeg
+*.png
+*.zip
+*.pth
+*.pt
+# Ignore Python cache and temporary files
+__pycache__/
+*.pyc
+# Ignore system and IDE files
+.vscode/
+*.log
+.DS_Store
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.pt
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+env/
+venv/
+
+# Data and models
+data/
+models/
+
+# System
+.DS_Store
+Thumbs.db
