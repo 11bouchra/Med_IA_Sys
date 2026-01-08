@@ -10,7 +10,7 @@
 <h3>1. Clone the repository</h3>
 
 ```
-git clone <your-repo-url>
+git clone <the-repo-url>
 cd Med_AI_Sys
 ```
 
